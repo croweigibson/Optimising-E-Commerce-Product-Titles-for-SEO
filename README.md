@@ -1,7 +1,7 @@
-# Optimizing E-Commerce Product Titles for SEO 
- This project demonstrates how to optimize e-commerce product titles for better SEO performance using Python and regular expressions. The solution cleans and refines product titles by removing unnecessary product codes, color adjectives, and filler words while preserving key details such as measurement suffixes to create concise, impactful titles. It showcases practical data wrangling, regex pattern design, and algorithmic problem-solving to improve online visibility and user engagement.
+# Optimising E-Commerce Product Titles for SEO 
+ This project demonstrates how to optimise e-commerce product titles for better SEO performance using Python and regular expressions. The solution cleans and refines product titles by removing unnecessary product codes, colour adjectives, and filler words while preserving key details such as measurement suffixes to create concise, impactful titles. It showcases practical data wrangling, regex pattern design, and algorithmic problem-solving to improve online visibility and user engagement.
 
-# Product Title Optimization Report
+# Product Title Optimisation Report
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -30,7 +30,7 @@ The Jupyter Notebook detailing the steps of the SEO title optimisation process c
   - `PRODUCTTYPEID` and `ProductLength`: Additional numerical attributes.
 
 ## Data Cleaning and Preparation
-Before optimizing titles, we conducted a thorough data cleaning process to enhance consistency and accuracy.
+Before optimising titles, we conducted a thorough data cleaning process to enhance consistency and accuracy.
 
 ### 1. **Loading the Dataset**
 The dataset was imported using Pandas:
