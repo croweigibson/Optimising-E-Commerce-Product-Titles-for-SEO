@@ -44,8 +44,9 @@ product.shape  # Output: (3,847, 6)
 product.info()  # Displays column data types and null counts
 ```
 Observations:
-- **3,847 rows and 6 columns** before cleaning.
-- **Presence of missing values** in key fields like `BULLET_POINTS` and `DESCRIPTION`.
+![data info](image-6.png)
+Further analysis shows that dataset contains **3,847 products** with **6 features**, including product ID, title, and descriptions. While **PRODUCTID and TITLE are fully available**, **BULLET_POINTS (41%) and DESCRIPTION (56%) have significant missing values**, and **PRODUCTTYPEID and ProductLength (5%) have minor gaps**. These missing values will be addressed before further analysis.
+
 
 ### 2. **Handling Duplicate Entries**
 To ensure unique product records, we identified and removed duplicate rows. 
