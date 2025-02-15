@@ -319,6 +319,7 @@ Now, the product DataFrame will have an additional short_title column with the g
 
 here's a visualization of the new title distribution
 ![short_title distribution](image-5.png)
+
 Most titles now fall between 30-60 characters with peaks at 40 and 55-60 characters, showing our title shortening process successfully compressed the lengthy original titles into SEO-friendly lengths.
 ## Challenges Encountered
 - **Inconsistent Formatting:** Different naming conventions required adaptable filtering.
