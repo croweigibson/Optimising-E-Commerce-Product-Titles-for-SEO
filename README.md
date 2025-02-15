@@ -105,7 +105,7 @@ To confirm that all missing values have been taken care of, we run the following
 product.info()
 ```
 
-![After data cleaning](image-8.png)
+![After data cleaning](image-9.png)
 
 After removing duplicates and handling missing values, we now have **3541** rows across all columns
 
