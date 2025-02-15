@@ -14,7 +14,7 @@
 - [Conclusion](#conclusion)
 
 ## Introduction
-In the realm of e-commerce, optimizing product titles is crucial for improving search visibility, enhancing user engagement, and driving sales. This project focuses on refining product titles using **Python and regular expressions (regex)** to clean, standardize, and structure them for SEO compliance. The goal is to remove redundant details while retaining essential product attributes, ensuring clarity and conciseness.
+Product titles are more than just labels; they’re one of the first things customers see and play a key role in whether they click on your product or move on. In e-commerce, it’s all about striking the right balance between being clear, concise, and SEO-friendly. This project digs into refining product titles using Python and regular expressions (regex) to clean, standardise, and structure them. The aim is to remove the clutter and keep what truly matters, ensuring the titles are easy to read and optimised for search engines.
 
 ## Dataset Overview
 - **Dataset Source:** `productdata.xlsx`
