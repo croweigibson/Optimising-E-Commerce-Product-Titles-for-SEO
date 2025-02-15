@@ -81,8 +81,10 @@ missing_df
 ```
 ![alt text](image-2.png)
 Findings:
-- **41% missing values** in `BULLET_POINTS`
-- **56% missing values** in `DESCRIPTION`
+- **40% missing values** in `BULLET_POINTS`
+- **54.68% missing values** in `DESCRIPTION`
+- **2.45% missing values** in `PRODUCTTYPEID`
+- **2.45% missing values** in `ProductLength`
 
 ![Missing Values visualisation](image-1.png)
 Approach:
