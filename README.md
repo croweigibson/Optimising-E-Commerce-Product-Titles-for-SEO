@@ -98,6 +98,14 @@ product.loc[:, ['BULLET_POINTS', 'DESCRIPTION']] = product[['BULLET_POINTS', 'DE
 # Verify changes
 print(product.isnull().sum())  # Should return 0 for these columns
 ```
+To confirm that all missing values have been taken care of, we run the following code again:
+```
+product.info()
+```
+
+![After data cleaning](image-8.png)
+
+After removing duplicates and handling missing values, we now have **3541** rows across all columns
 
 ### 4. **Standardizing Column Names**
 For consistency, column names were converted to lowercase with underscores:
