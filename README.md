@@ -15,9 +15,11 @@
 
 ## Introduction
 Product titles are more than just labels; they’re one of the first things customers see and play a key role in whether they click on your product or move on. In e-commerce, it’s all about striking the right balance between being clear, concise, and SEO-friendly. This project digs into refining product titles using Python and regular expressions (regex) to clean, standardise, and structure them. The aim is to remove the clutter and keep what truly matters, ensuring the titles are easy to read and optimised for search engines.
+The Jupyter Notebook detailing the steps of the SEO title optimisation process can be found [here](https://github.com/croweigibson/Optimizing-E-Commerce-Product-Titles-for-SEO-/blob/main/SEO%20Title%20Optimisation.ipynb).
+
 
 ## Dataset Overview
-- **Dataset Source:** `productdata.xlsx`
+- **Dataset Source:** The dataset used in this project, `productdata.xlsx`, can be accessed [here](https://github.com/croweigibson/Optimizing-E-Commerce-Product-Titles-for-SEO-/blob/main/productdata.xlsx).
 - **Total Rows:** 3,847 products (before initial cleaning)
 - **Total Columns:** 6
 - **Key Features:**
@@ -317,6 +319,9 @@ Most titles now fall between 30-60 characters with peaks at 40 and 55-60 charact
 - **Concise Titles Improve Readability:** Shorter titles enhance clarity and engagement.
 - **Essential Attributes Must Be Retained:** Filtering improves structure without losing key information.
 - **Category-Specific Adjustments May Be Needed:** Some products require unique processing rules.
+
+After refining the product titles, the new sheet with the updated `short_title` column is available [here](https://github.com/croweigibson/Optimizing-E-Commerce-Product-Titles-for-SEO-/blob/main/product_new.xlsx).
+
 
 ## Recommendations
 - **Enhance Regex Patterns:** Improve differentiation between necessary and redundant numerical data.
