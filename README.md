@@ -1,0 +1,2 @@
+# Optimizing E-Commerce Product Titles for SEO 
+ This project demonstrates how to optimize e-commerce product titles for better SEO performance using Python and regular expressions. The solution cleans and refines product titles by removing unnecessary product codes, color adjectives, and filler words while preserving key details such as measurement suffixes to create concise, impactful titles. It showcases practical data wrangling, regex pattern design, and algorithmic problem-solving to improve online visibility and user engagement.
